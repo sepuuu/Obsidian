@@ -14,8 +14,45 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "91c85f07dd714289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizaje Automático (Artificial Intelligence).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4f9d453feaf25a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizaje Automático (Artificial Intelligence).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df83e71f06fa2905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deep Learning.md"
+              }
             }
           }
         ]
@@ -138,6 +179,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3929b4281dc585dc",
-  "lastOpenFiles": []
+  "active": "df83e71f06fa2905",
+  "lastOpenFiles": [
+    "Aprendizaje Automático (Artificial Intelligence).md",
+    "Machine Learning.md",
+    "Pasted image 20231216022619.png",
+    "Pasted image 20231216022546.png",
+    "Deep Learning.md",
+    "Pasted image 20231216011349.png",
+    "Sin título.canvas",
+    "Inteligencia Artificial (Aprendizaje Automático) 1.md",
+    "Pasted image 20231216011716.png"
+  ]
 }
